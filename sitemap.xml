@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200</image:loc><image:title>Gulmarg Kashmir tour packages</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/gulmarg-tour-package/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image><image:loc>https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800</image:loc><image:title>Gulmarg tour package 2025</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/gulmarg-gondola-booking/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image><image:loc>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800</image:loc><image:title>Gulmarg gondola booking phase 1 phase 2</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/srinagar-to-gulmarg-taxi/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/gulmarg-skiing-package/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+    <image:image><image:loc>https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800</image:loc><image:title>Gulmarg skiing package India best ski resort</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/kashmir-honeymoon-package/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/kashmir-tour-package/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/blog/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/about/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://www.wildwaysglobal.com/contact/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Blog posts -->
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-4-day-itinerary/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-trip-cost-2025/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-gondola-guide/</loc><lastmod>2024-12-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/best-time-to-visit-gulmarg/</loc><lastmod>2024-11-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-skiing-beginners-guide/</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/kashmir-honeymoon-itinerary/</loc><lastmod>2025-03-01</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/srinagar-to-gulmarg-taxi-guide/</loc><lastmod>2025-02-01</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
+  <url><loc>https://www.wildwaysglobal.com/blog/gulmarg-snowfall-season/</loc><lastmod>2024-10-01</lastmod><changefreq>monthly</changefreq><priority>0.70</priority></url>
+
+</urlset>
